@@ -14,4 +14,4 @@
 #         uses: ./.github/actions/hello-world
 #         
 #       - name: ha-ha
-#         uses: ./.guthub/actions/joke-action
+#         uses: ./.github/actions/joke-action
