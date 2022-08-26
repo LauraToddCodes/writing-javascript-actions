@@ -1,5 +1,9 @@
 name: external API action
 
+on:
+  issues:
+    types: [labeled, unlabeled]
+
 description: "use an external API to retrieve and display a joke"
 
 outputs:
